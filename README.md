@@ -1,14 +1,14 @@
 # Python API Homework 
 
-## _What's the Weather Like?
+## What's the Weather Like?
 
 ### Part I: WeatherPy
 
-#### _Description
+#### Description
 
 In Part I of the Python API Homework assignment, I created a Python script that visualized the weather of 500+ cities across the world, which varied in distance from the equator. 
 
-#### _Observations 
+#### Observations 
 
 Based upon this analysis, which is based upon data that is dated March 3, 2022, I concluded the following 13 observations: 
 
@@ -36,7 +36,7 @@ In Part II of the Python API Homework assignment, I utilized the aforementioned 
 
 Part II of the assignment required that I create a heat map that displays the humidity for every city from Part I. The heatmap is as follows. 
 
-_Insert link
+Insert link
 
 Furthermore, I was required to find hotels in close proximity to cities that met the following criteria:
 
@@ -46,7 +46,7 @@ Furthermore, I was required to find hotels in close proximity to cities that met
 
 Next, I was required to create a heat map that plotted the hotels. The heat map is as follows. 
 
-_Insert link
+Insert link
 
 
 
