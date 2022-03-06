@@ -36,7 +36,7 @@ In Part II of the Python API Homework assignment, I utilized the aforementioned 
 
 Part II of the assignment required that I create a heat map that displays the humidity for every city from Part I. The heatmap is as follows. 
 
-Images/Heat Map 1.png
+https://github.com/tajiabdullah/python-api-challenge/blob/f3f68d1f5ab50f68d127c45e909b81c3631fea92/Images/Heat%20Map%201.png
 
 Furthermore, I was required to find hotels in close proximity to cities that met the following criteria:
 
