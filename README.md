@@ -28,11 +28,11 @@ Based upon this analysis, which is based upon data that is dated March 3, 2022, 
 
 ### Part II: VacationPy
 
-#### _Description
+#### Description
 
 In Part II of the Python API Homework assignment, I utilized the aforementioned Python script to plan a vacation. 
 
-#### _Deliverables
+#### Deliverables
 
 Part II of the assignment required that I create a heat map that displays the humidity for every city from Part I. The heatmap is as follows. 
 
